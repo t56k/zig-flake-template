@@ -8,5 +8,5 @@
 
 ```
 direnv allow
-zig init .
+zig init
 ```
